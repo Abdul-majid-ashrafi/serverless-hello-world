@@ -1,13 +1,5 @@
-# serverless-hello-world
-
-saylani-theory-batch-4.1
-use for any one its simple code of html 5 cahapter 6
-just clone..
-
-
 
 # Starting serverless:
-***
 
 I’m going to assume you have an AWS account and credentials. If not, handle that now.
 You have to create a folder in your users directory in  C-drive  and you have to create a folder called .aws
